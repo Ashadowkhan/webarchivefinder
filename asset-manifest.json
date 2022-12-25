@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sawravchy.github.io/ArchiveFinder/static/css/main.38a6fb83.css",
-    "main.js": "/sawravchy.github.io/ArchiveFinder/static/js/main.5154bb67.js",
-    "static/js/787.28cb0dcd.chunk.js": "/sawravchy.github.io/ArchiveFinder/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/sawravchy.github.io/ArchiveFinder/static/js/main.d960c90a.js",
+    "static/js/787.56374929.chunk.js": "/sawravchy.github.io/ArchiveFinder/static/js/787.56374929.chunk.js",
     "index.html": "/sawravchy.github.io/ArchiveFinder/index.html",
     "main.38a6fb83.css.map": "/sawravchy.github.io/ArchiveFinder/static/css/main.38a6fb83.css.map",
-    "main.5154bb67.js.map": "/sawravchy.github.io/ArchiveFinder/static/js/main.5154bb67.js.map",
-    "787.28cb0dcd.chunk.js.map": "/sawravchy.github.io/ArchiveFinder/static/js/787.28cb0dcd.chunk.js.map"
+    "main.d960c90a.js.map": "/sawravchy.github.io/ArchiveFinder/static/js/main.d960c90a.js.map",
+    "787.56374929.chunk.js.map": "/sawravchy.github.io/ArchiveFinder/static/js/787.56374929.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38a6fb83.css",
-    "static/js/main.5154bb67.js"
+    "static/js/main.d960c90a.js"
   ]
 }
