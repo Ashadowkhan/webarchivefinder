@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArchiveFinder/static/css/main.38a6fb83.css",
-    "main.js": "/ArchiveFinder/static/js/main.ca0a7ca4.js",
-    "static/js/787.56374929.chunk.js": "/ArchiveFinder/static/js/787.56374929.chunk.js",
-    "index.html": "/ArchiveFinder/index.html",
-    "main.38a6fb83.css.map": "/ArchiveFinder/static/css/main.38a6fb83.css.map",
-    "main.ca0a7ca4.js.map": "/ArchiveFinder/static/js/main.ca0a7ca4.js.map",
-    "787.56374929.chunk.js.map": "/ArchiveFinder/static/js/787.56374929.chunk.js.map"
+    "main.css": "/archivefinder/static/css/main.cd374615.css",
+    "main.js": "/archivefinder/static/js/main.56f3aca9.js",
+    "static/js/787.56374929.chunk.js": "/archivefinder/static/js/787.56374929.chunk.js",
+    "index.html": "/archivefinder/index.html",
+    "main.cd374615.css.map": "/archivefinder/static/css/main.cd374615.css.map",
+    "main.56f3aca9.js.map": "/archivefinder/static/js/main.56f3aca9.js.map",
+    "787.56374929.chunk.js.map": "/archivefinder/static/js/787.56374929.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38a6fb83.css",
-    "static/js/main.ca0a7ca4.js"
+    "static/css/main.cd374615.css",
+    "static/js/main.56f3aca9.js"
   ]
 }
