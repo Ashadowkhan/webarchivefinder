@@ -65,9 +65,13 @@ iframe {
   height: 700px;
   border: none;
   border: solid #424242 1px;
+  background-image: url("./loading.gif");   
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.3s;
   margin-top: 80px;
+  background-color: black;
 }
 
 
