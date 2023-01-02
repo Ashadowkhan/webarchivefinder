@@ -63,20 +63,21 @@
 iframe {
   width: 98%;
   height: 700px;
-  border: none;
   border: solid #424242 1px;
+  border-radius: 8px;
   background-image: url("./loading.gif");   
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  transition: box-shadow 0.3s;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
   margin-top: 80px;
-  background-color: black;
+  background-color: #FFFFFF;
 }
 
 
 iframe:hover {
   box-shadow: 1px 3px 7px #666666;
+  box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
 }
 
 .fade-in {
