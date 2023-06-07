@@ -15,7 +15,11 @@
 </a>
 <a href="https://reactjs.org/">
     <img alt = "React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </a>
+<a href="https://github.com/zricethezav/gitleaks-action">
+    <img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue?style=for-the-badge">
 </a>
+</p>
 </p>
 
 
